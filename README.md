@@ -1,7 +1,7 @@
-### Ola
+### Olá, boas vindas ao meu perfil 💖💖
 
-Meu nome é Tainara Nascimento
+**_Meu nome é Tainara Nascimento!_**
 
-Estou estudando na Alura
-Estou desenvolvenfo programação
-Utlizo esse perfil para projetos
+- Estou estudando na Alura
+- Estou desenvolvenfo programação
+- Utlizo esse perfil para projetos
